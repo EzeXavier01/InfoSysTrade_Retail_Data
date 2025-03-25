@@ -1,0 +1,503 @@
+Transaction ID,Date,Customer ID,Gender,Age,Location,Product Category,Quantity,Price per Unit,Total Amount,Payment Method,Shipping Type,Subscription Status,Promo Code Used,Discount Applied,Previous Purchases,Frequency of Purchases,Churn
+1,11/5/2023,CUST856,Female,39,Michigan,Sports,1,98,98,Venmo,Free Shipping,Yes,Yes,No,32,Bi-Weekly,Yes
+2,8/19/2024,CUST824,Male,36,Florida,Books,3,222,666,Google Pay,Express,Yes,Yes,Yes,34,Quarterly,No
+3,10/2/2023,CUST105,Female,36,California,Clothing,3,114,342,PayPal,Next Day Air,Yes,Yes,No,32,Weekly,Yes
+4,8/13/2023,CUST428,Male,33,Florida,Electronics,1,16,16,Venmo,Standard,No,Yes,Yes,2,Quarterly,No
+5,9/11/2024,CUST160,Female,20,Florida,Footwear,5,839,4195,Cash,Next Day Air,Yes,Yes,Yes,43,Monthly,Yes
+6,6/19/2023,CUST237,Male,21,Illinois,Clothing,5,658,3290,Cash,Express,No,No,No,15,Monthly,No
+7,5/4/2024,CUST333,Male,19,Michigan,Sports,3,713,2139,Debit Card,Standard,Yes,Yes,Yes,50,Bi-Weekly,Yes
+8,7/12/2024,CUST763,Female,57,Ohio,Footwear,2,511,1022,Cash,Next Day Air,No,Yes,No,22,Weekly,No
+9,9/1/2023,CUST927,Female,59,North Carolina,Clothing,1,966,966,Google Pay,Standard,No,No,No,25,Monthly,Yes
+10,3/1/2025,CUST970,Male,23,Ohio,Books,2,58,116,Credit Card,Next Day Air,Yes,No,No,3,Quarterly,No
+11,7/3/2024,CUST429,Male,37,Georgia,Beauty,2,592,1184,Credit Card,Standard,Yes,No,No,32,Weekly,Yes
+12,5/26/2023,CUST835,Female,53,Michigan,Footwear,1,213,213,Credit Card,Free Shipping,No,Yes,No,8,Weekly,No
+13,2/13/2025,CUST496,Female,35,North Carolina,Home Decor,1,855,855,PayPal,Free Shipping,Yes,No,No,31,Daily,Yes
+14,1/22/2025,CUST546,Male,21,Texas,,1,441,441,Debit Card,Standard,No,No,No,4,Weekly,No
+15,12/27/2024,CUST422,Male,24,Ohio,Sports,4,69,276,Cash,Standard,Yes,No,No,43,Monthly,Yes
+16,6/15/2024,CUST467,Female,21,Florida,Beauty,5,208,1040,Debit Card,Standard,No,No,No,38,Quarterly,No
+17,9/3/2023,CUST918,Male,40,New York,Footwear,5,793,3965,Venmo,Standard,No,Yes,Yes,43,Weekly,Yes
+18,2/11/2025,CUST744,Male,29,New York,Footwear,1,855,855,Cash,Free Shipping,No,No,No,38,Monthly,No
+19,12/16/2024,CUST130,Female,53,California,Books,2,644,1288,Google Pay,Free Shipping,No,Yes,No,38,Weekly,Yes
+20,1/6/2025,CUST633,Male,54,Texas,Beauty,1,662,662,Venmo,Next Day Air,No,No,No,46,Weekly,No
+21,11/30/2023,CUST844,Female,44,Ohio,Footwear,2,164,328,Venmo,Next Day Air,Yes,Yes,No,12,Monthly,Yes
+22,10/6/2023,CUST929,Male,18,North Carolina,Home Decor,5,577,2885,Credit Card,Next Day Air,No,No,No,14,Bi-Weekly,No
+23,2/19/2024,CUST310,Male,51,Ohio,Home Decor,3,232,696,PayPal,Free Shipping,No,Yes,Yes,35,Bi-Weekly,Yes
+24,7/8/2023,CUST397,Male,20,California,Home Decor,1,819,819,PayPal,Standard,Yes,Yes,No,33,Monthly,No
+25,8/14/2023,CUST645,Male,36,Florida,Clothing,5,460,2300,Apple Pay,Free Shipping,No,No,No,12,Daily,Yes
+26,4/22/2024,CUST115,Female,60,Ohio,Beauty,4,380,1520,Google Pay,Express,Yes,Yes,Yes,21,Monthly,No
+27,3/29/2024,CUST796,Female,28,Texas,Clothing,4,18,72,Debit Card,Express,Yes,No,No,4,Monthly,Yes
+28,2/26/2025,CUST799,Male,44,Michigan,Clothing,5,950,4750,Google Pay,Free Shipping,Yes,Yes,Yes,43,Monthly,No
+29,12/12/2024,CUST160,Male,46,Florida,Beauty,5,744,3720,Cash,Free Shipping,No,No,No,9,Weekly,Yes
+30,10/17/2024,CUST822,Male,33,New York,Beauty,1,795,795,PayPal,Express,Yes,No,No,16,Daily,No
+31,3/10/2024,CUST862,Male,33,Michigan,Sports,3,918,2754,Venmo,Standard,No,No,No,40,Monthly,Yes
+32,11/10/2024,CUST778,Female,54,North Carolina,Books,4,136,544,Google Pay,Express,No,No,No,36,Bi-Weekly,No
+33,5/22/2023,CUST685,Male,27,Ohio,Beauty,1,744,744,Cash,Next Day Air,No,Yes,No,28,Daily,Yes
+34,6/20/2024,CUST119,Female,19,California,Clothing,3,605,1815,Debit Card,Standard,No,Yes,No,1,Bi-Weekly,No
+35,5/19/2024,CUST198,Female,61,New York,Footwear,3,717,2151,Venmo,Free Shipping,Yes,No,No,14,Weekly,Yes
+36,7/25/2023,CUST466,Male,41,Illinois,Clothing,4,456,1824,Google Pay,Express,Yes,No,No,2,Daily,No
+37,11/20/2023,CUST407,Male,37,New York,Beauty,3,358,1074,PayPal,Express,No,No,No,15,Bi-Weekly,Yes
+38,1/15/2024,CUST285,Male,52,Michigan,Home Decor,1,770,770,Credit Card,Express,No,No,No,4,Quarterly,No
+39,8/25/2024,CUST509,Female,22,Texas,Electronics,3,689,2067,Google Pay,Standard,No,Yes,Yes,36,Weekly,Yes
+40,1/14/2025,CUST174,Female,36,Florida,Home Decor,5,565,2825,Debit Card,Free Shipping,Yes,No,No,23,Quarterly,No
+41,7/16/2023,CUST889,Female,33,Illinois,Electronics,2,334,668,Google Pay,Standard,No,Yes,Yes,44,Quarterly,Yes
+42,5/2/2023,CUST735,Male,34,North Carolina,Sports,4,26,104,Credit Card,Next Day Air,Yes,No,No,48,Bi-Weekly,No
+43,11/3/2024,CUST480,Female,54,Florida,Books,1,745,745,PayPal,Next Day Air,No,Yes,No,17,Weekly,Yes
+44,1/5/2024,CUST920,Female,25,Texas,Clothing,2,776,1552,Credit Card,Next Day Air,Yes,No,No,9,Bi-Weekly,No
+45,11/14/2024,CUST174,Female,40,Texas,Electronics,5,329,1645,Venmo,Standard,Yes,No,No,41,Daily,Yes
+46,5/27/2023,CUST937,Female,61,New York,Books,5,869,4345,Cash,Standard,Yes,Yes,No,35,Monthly,No
+47,1/17/2025,CUST210,Male,32,California,Clothing,3,245,735,Venmo,Express,No,No,No,6,Monthly,Yes
+48,12/26/2023,CUST467,Male,37,Texas,Beauty,5,947,4735,Credit Card,Free Shipping,No,Yes,Yes,12,Bi-Weekly,No
+49,9/17/2023,CUST922,Female,60,Michigan,Electronics,3,,1455,Cash,Standard,No,,Yes,48,Weekly,Yes
+50,1/17/2024,CUST252,Male,45,Texas,Clothing,2,960,1920,Apple Pay,Express,Yes,No,No,1,Daily,No
+51,3/24/2024,CUST186,Female,49,North Carolina,Beauty,3,398,1194,Credit Card,Free Shipping,No,Yes,No,21,Monthly,Yes
+52,12/4/2023,CUST700,Male,46,Illinois,Beauty,2,720,1440,Google Pay,Free Shipping,No,No,No,50,Quarterly,No
+53,1/26/2024,CUST182,Female,46,Florida,Footwear,5,290,1450,PayPal,Standard,No,No,No,11,Monthly,Yes
+54,7/18/2024,CUST391,Female,38,Georgia,Sports,3,585,1755,PayPal,Express,Yes,No,No,47,Bi-Weekly,No
+55,8/9/2024,CUST733,Male,47,Michigan,Books,1,626,626,Apple Pay,Express,Yes,No,No,27,Daily,Yes
+56,6/20/2024,CUST780,Male,36,Georgia,Electronics,5,439,2195,Google Pay,Standard,No,Yes,Yes,6,Weekly,No
+57,10/2/2024,CUST971,Female,25,New York,Home Decor,1,506,506,Apple Pay,Next Day Air,Yes,No,No,37,Daily,Yes
+58,7/21/2023,CUST693,Male,49,North Carolina,Beauty,4,570,2280,Venmo,Free Shipping,No,No,No,1,Weekly,No
+59,1/18/2025,CUST629,Female,22,California,Footwear,2,951,1902,,Standard,No,No,,9,,Yes
+60,8/19/2023,CUST127,Male,31,Ohio,,4,107,428,Cash,Next Day Air,Yes,No,No,18,Quarterly,No
+61,2/20/2025,CUST734,Male,36,Illinois,Beauty,3,258,774,Cash,Free Shipping,No,Yes,No,39,Bi-Weekly,Yes
+62,9/12/2023,CUST772,Male,65,Illinois,Sports,1,856,856,Venmo,Standard,No,No,No,33,Weekly,No
+63,8/14/2024,CUST367,Female,31,Ohio,Sports,3,717,2151,Debit Card,Free Shipping,No,Yes,No,30,Monthly,Yes
+64,4/5/2023,CUST590,Female,63,California,Clothing,3,847,2541,PayPal,Standard,Yes,No,No,40,Monthly,No
+65,8/30/2023,CUST725,Female,32,Illinois,Electronics,1,593,593,Debit Card,Standard,Yes,Yes,No,29,Daily,Yes
+66,3/15/2024,CUST892,Male,27,Michigan,Books,3,519,1557,Cash,Free Shipping,No,No,No,37,Bi-Weekly,No
+67,3/14/2025,CUST190,Male,35,Texas,Beauty,2,859,1718,Apple Pay,Free Shipping,No,Yes,No,3,Daily,Yes
+68,2/18/2024,CUST936,Male,34,Texas,Footwear,1,622,622,PayPal,Express,No,No,No,14,Daily,No
+69,10/25/2023,CUST769,Male,33,North Carolina,Books,1,685,685,Credit Card,Free Shipping,No,Yes,No,43,Monthly,Yes
+70,10/29/2024,CUST584,Male,59,California,Beauty,2,246,492,Credit Card,Free Shipping,Yes,No,No,4,Bi-Weekly,No
+71,5/15/2023,CUST983,Male,48,Michigan,Beauty,1,965,965,Credit Card,Express,Yes,No,No,31,Monthly,Yes
+72,6/23/2023,CUST876,Male,27,Michigan,Home Decor,1,118,118,Google Pay,Standard,Yes,No,No,13,Monthly,No
+73,12/26/2024,CUST157,Female,57,Michigan,Clothing,3,426,1278,Cash,Standard,Yes,Yes,No,48,Daily,Yes
+74,9/9/2024,CUST197,Male,41,New York,Home Decor,2,988,1976,PayPal,Free Shipping,Yes,No,No,42,Quarterly,No
+75,4/28/2024,CUST229,Male,41,Michigan,Beauty,3,816,2448,Venmo,Express,Yes,No,No,28,Bi-Weekly,Yes
+76,10/31/2023,CUST362,Male,38,Ohio,Home Decor,3,724,2172,Venmo,Standard,Yes,Yes,No,43,Daily,No
+77,5/23/2023,CUST223,Female,36,Georgia,Clothing,2,721,1442,Venmo,Standard,Yes,No,No,33,Weekly,Yes
+78,12/1/2024,CUST463,Male,63,Texas,Footwear,5,742,3710,Venmo,Next Day Air,No,No,No,35,Weekly,No
+79,6/23/2023,CUST762,Female,37,California,Electronics,4,988,3952,Cash,Free Shipping,Yes,Yes,No,34,Bi-Weekly,Yes
+80,12/9/2023,CUST323,Male,29,Ohio,Sports,2,556,1112,Google Pay,Free Shipping,Yes,No,No,34,Daily,No
+81,8/1/2023,CUST892,Male,59,Florida,Electronics,2,467,934,Debit Card,Next Day Air,Yes,Yes,No,16,Daily,Yes
+82,11/5/2024,CUST106,Female,40,Florida,Electronics,2,755,1510,Apple Pay,Standard,No,Yes,No,18,Monthly,No
+83,6/8/2023,CUST852,Female,63,Michigan,Electronics,3,319,957,,Next Day Air,No,Yes,No,35,Weekly,Yes
+84,9/26/2024,CUST482,Male,40,North Carolina,Books,4,440,1760,Apple Pay,Standard,No,No,No,26,Daily,No
+85,5/24/2023,CUST305,Male,36,North Carolina,Clothing,1,373,373,Venmo,Free Shipping,No,No,No,4,Quarterly,Yes
+86,6/19/2024,CUST563,Male,63,Florida,Clothing,2,369,738,Google Pay,Next Day Air,Yes,No,No,46,Daily,No
+87,10/24/2023,CUST978,Female,45,Texas,Clothing,4,244,976,Credit Card,Express,No,No,No,3,Bi-Weekly,Yes
+88,9/16/2024,CUST661,Female,36,Georgia,Clothing,5,552,2760,Apple Pay,Express,No,Yes,No,25,Weekly,No
+89,4/28/2024,CUST293,Male,56,North Carolina,Home Decor,2,852,1704,PayPal,Next Day Air,Yes,No,No,18,Bi-Weekly,Yes
+90,6/27/2023,CUST159,Female,38,California,Clothing,5,933,4665,Credit Card,Express,No,No,No,14,Quarterly,No
+91,2/15/2024,CUST479,Male,60,Ohio,Books,1,928,928,Google Pay,Standard,No,No,No,48,Daily,Yes
+92,10/23/2024,CUST271,Male,26,Texas,Home Decor,1,807,807,Debit Card,Express,Yes,No,No,2,Bi-Weekly,No
+93,1/27/2025,CUST548,Male,53,Illinois,Books,1,50,50,Credit Card,Next Day Air,No,No,No,48,Daily,Yes
+94,1/24/2024,CUST462,Male,32,North Carolina,Home Decor,1,119,119,Venmo,Express,Yes,Yes,Yes,27,Bi-Weekly,No
+95,3/18/2024,CUST148,Female,39,Michigan,Books,3,146,438,Debit Card,Free Shipping,Yes,No,No,24,Weekly,Yes
+96,3/27/2023,CUST142,Male,29,New York,Clothing,3,851,2553,PayPal,Free Shipping,Yes,Yes,Yes,2,Bi-Weekly,No
+97,2/1/2024,CUST769,Female,51,Florida,Sports,5,730,3650,Venmo,Express,No,No,No,19,Monthly,Yes
+98,12/25/2024,CUST837,Male,53,Texas,Books,3,864,2592,Debit Card,Express,No,No,No,0,Monthly,No
+99,11/24/2024,CUST133,Female,47,Texas,Footwear,3,808,2424,Cash,Next Day Air,No,No,No,43,Daily,Yes
+100,7/2/2023,CUST817,Male,54,New York,Electronics,2,155,310,Venmo,Next Day Air,No,No,No,11,Bi-Weekly,No
+101,5/12/2023,CUST864,Male,53,Georgia,Home Decor,2,678,1356,Credit Card,Free Shipping,No,Yes,No,12,Weekly,Yes
+102,9/24/2023,CUST413,Female,45,Ohio,Home Decor,1,302,302,Venmo,Free Shipping,No,No,No,29,Monthly,No
+103,9/12/2023,CUST108,Male,19,Michigan,Footwear,3,277,831,Apple Pay,Express,Yes,No,No,2,Quarterly,Yes
+104,12/22/2024,CUST510,Female,54,Michigan,Beauty,2,349,698,Credit Card,Express,No,No,No,10,Bi-Weekly,No
+105,3/3/2024,CUST536,Male,47,Illinois,Books,5,120,600,Credit Card,Standard,No,No,No,5,Daily,Yes
+106,3/24/2024,CUST851,Female,27,Florida,Clothing,1,844,844,Venmo,Free Shipping,No,No,No,41,Bi-Weekly,No
+107,5/28/2023,CUST991,Female,33,Georgia,Sports,5,931,4655,PayPal,Express,Yes,No,No,16,Quarterly,Yes
+108,4/5/2023,CUST995,Male,59,Illinois,Clothing,2,191,382,Credit Card,Standard,No,Yes,Yes,20,Monthly,No
+109,7/22/2024,CUST672,Female,36,North Carolina,Sports,4,153,612,Apple Pay,Standard,No,Yes,No,47,Bi-Weekly,Yes
+110,5/28/2024,CUST722,Male,55,Illinois,Footwear,3,970,2910,Credit Card,Standard,No,Yes,No,20,Monthly,No
+111,4/23/2023,CUST468,Male,21,North Carolina,Clothing,3,226,678,Venmo,Free Shipping,No,No,No,1,Monthly,Yes
+112,6/24/2023,CUST340,Female,32,New York,Electronics,4,288,1152,Venmo,Free Shipping,Yes,No,No,46,Daily,No
+113,3/9/2024,CUST509,Male,56,Illinois,Electronics,5,632,3160,Cash,Express,Yes,Yes,No,23,Weekly,Yes
+114,1/3/2025,CUST565,Male,18,Texas,Clothing,3,536,1608,Google Pay,Free Shipping,No,Yes,No,14,Monthly,No
+115,1/9/2024,CUST621,Male,52,Michigan,Home Decor,5,795,3975,PayPal,Express,Yes,No,No,40,Monthly,Yes
+116,8/17/2023,CUST578,Male,43,California,Footwear,1,883,883,Cash,Express,Yes,No,No,5,Weekly,No
+117,12/18/2023,CUST711,Male,20,Michigan,Footwear,5,669,3345,Credit Card,Standard,Yes,Yes,No,9,Quarterly,Yes
+118,7/3/2023,CUST918,Male,27,Ohio,Electronics,2,742,1484,Debit Card,Free Shipping,No,Yes,Yes,47,Quarterly,No
+119,12/8/2023,CUST616,Female,23,Texas,Footwear,4,59,236,Cash,Express,No,No,No,15,Quarterly,Yes
+120,4/9/2024,CUST994,Female,46,Florida,Home Decor,4,923,3692,PayPal,Standard,No,Yes,No,27,Monthly,No
+121,11/27/2023,CUST486,Male,58,Illinois,Sports,3,827,2481,Venmo,Free Shipping,No,Yes,No,1,Bi-Weekly,Yes
+122,2/6/2024,CUST731,Female,30,Texas,Footwear,2,952,1904,PayPal,Free Shipping,Yes,Yes,No,19,Bi-Weekly,No
+123,7/15/2023,CUST450,Female,54,Florida,Electronics,3,397,1191,PayPal,Express,Yes,No,No,4,Quarterly,Yes
+124,9/3/2024,CUST235,Male,53,Texas,Clothing,1,745,745,Apple Pay,Express,Yes,No,No,33,Daily,No
+125,1/3/2025,CUST651,Female,28,Georgia,Electronics,3,176,528,PayPal,Free Shipping,No,No,No,29,Quarterly,Yes
+126,2/9/2025,CUST412,Male,28,New York,Electronics,1,670,670,Cash,Express,No,Yes,Yes,34,Bi-Weekly,No
+127,10/5/2023,CUST675,Male,46,Ohio,Sports,2,369,738,Google Pay,Free Shipping,No,Yes,Yes,29,Bi-Weekly,Yes
+128,8/26/2023,CUST927,Female,60,Ohio,Home Decor,3,164,492,Debit Card,Free Shipping,Yes,No,No,42,Daily,No
+129,5/2/2023,CUST301,Male,34,Michigan,Books,2,87,174,Apple Pay,Free Shipping,Yes,Yes,Yes,6,Quarterly,Yes
+130,6/3/2023,CUST132,Male,54,North Carolina,Home Decor,4,827,3308,Cash,Next Day Air,Yes,No,No,23,Daily,No
+131,3/26/2024,CUST138,Male,19,New York,Books,3,357,1071,Apple Pay,Free Shipping,No,Yes,No,31,Weekly,Yes
+132,10/18/2024,CUST713,Female,20,Michigan,Clothing,4,746,2984,Google Pay,Standard,No,Yes,Yes,50,Bi-Weekly,No
+133,2/13/2024,CUST531,Female,30,Florida,Books,3,871,2613,Cash,Standard,No,Yes,No,38,Quarterly,Yes
+134,2/22/2024,CUST627,Male,30,Michigan,Clothing,1,128,128,Debit Card,Next Day Air,No,Yes,No,0,Quarterly,No
+135,1/9/2025,CUST963,Female,49,Michigan,Electronics,5,899,4495,Google Pay,Free Shipping,Yes,No,No,30,Daily,Yes
+136,2/15/2025,CUST408,Male,51,Florida,Beauty,3,231,693,Google Pay,Express,Yes,Yes,No,14,Daily,No
+137,11/24/2023,CUST968,Male,53,New York,Books,4,146,584,PayPal,Next Day Air,Yes,Yes,Yes,9,Weekly,Yes
+138,2/27/2025,CUST140,Female,52,California,Beauty,4,766,3064,Venmo,Express,Yes,No,No,10,Quarterly,No
+139,7/5/2024,CUST957,Male,29,New York,Electronics,5,790,3950,Venmo,Free Shipping,No,Yes,No,34,Monthly,Yes
+140,6/3/2024,CUST444,Female,30,Illinois,Footwear,5,122,610,Google Pay,Next Day Air,No,No,No,1,Weekly,No
+141,6/11/2023,CUST524,Female,34,Ohio,Footwear,5,491,2455,PayPal,Free Shipping,No,Yes,No,32,Monthly,Yes
+142,12/30/2023,CUST806,Female,30,California,Sports,2,251,502,Credit Card,Express,Yes,Yes,Yes,36,Monthly,No
+143,2/21/2024,CUST685,Female,47,Texas,Home Decor,5,119,595,Google Pay,Free Shipping,No,No,No,46,Bi-Weekly,Yes
+144,5/11/2023,CUST700,Female,43,North Carolina,Electronics,5,815,4075,Credit Card,Express,No,Yes,No,41,Weekly,No
+145,4/10/2024,CUST172,Female,55,Georgia,Home Decor,5,728,3640,Cash,Express,No,Yes,Yes,33,Quarterly,Yes
+146,4/4/2023,CUST814,Male,25,Illinois,Footwear,2,887,1774,Venmo,Free Shipping,No,No,No,24,Daily,No
+147,12/30/2024,CUST377,Female,53,California,Beauty,5,16,80,Credit Card,Free Shipping,Yes,No,No,11,Bi-Weekly,Yes
+148,9/27/2023,CUST736,Male,61,New York,Footwear,3,224,672,Cash,Next Day Air,No,Yes,Yes,9,Bi-Weekly,No
+149,7/27/2024,CUST935,Male,57,North Carolina,Footwear,4,811,3244,Apple Pay,Express,Yes,No,No,8,Quarterly,Yes
+150,4/2/2024,CUST619,Male,31,Michigan,Beauty,2,862,1724,Cash,Next Day Air,No,No,No,23,Daily,No
+151,9/4/2024,CUST740,Female,19,California,Books,1,223,223,Venmo,Free Shipping,No,Yes,Yes,19,Quarterly,Yes
+152,10/27/2023,CUST597,Female,44,New York,Books,4,389,1556,Google Pay,Standard,Yes,Yes,Yes,26,Daily,No
+153,2/28/2025,CUST667,Female,51,Illinois,Home Decor,2,751,1502,Cash,Express,Yes,No,No,42,Monthly,Yes
+154,7/20/2023,CUST214,Male,60,Ohio,Clothing,3,715,2145,Cash,Express,No,No,No,0,Daily,No
+155,9/21/2023,CUST977,Female,23,New York,Home Decor,4,263,1052,Venmo,Next Day Air,Yes,No,No,30,Daily,Yes
+156,1/24/2025,CUST602,Female,19,Texas,Sports,3,912,2736,Apple Pay,Express,Yes,No,No,28,Bi-Weekly,No
+157,9/14/2024,CUST804,Male,41,Florida,Sports,1,153,153,Venmo,Standard,No,No,No,13,Bi-Weekly,Yes
+158,10/9/2023,CUST311,Male,43,Michigan,Clothing,3,443,1329,Apple Pay,Standard,Yes,Yes,Yes,19,Quarterly,No
+159,10/8/2024,CUST262,Male,24,California,Clothing,2,143,286,Credit Card,Express,No,No,No,0,Quarterly,Yes
+160,3/6/2024,CUST161,Male,57,New York,Home Decor,4,513,2052,Venmo,Express,Yes,No,No,42,Bi-Weekly,No
+161,1/11/2024,CUST149,Male,58,Michigan,Footwear,1,895,895,Cash,Next Day Air,Yes,No,No,37,Weekly,Yes
+162,2/1/2025,CUST411,Male,32,New York,Home Decor,1,399,399,Cash,Express,No,Yes,Yes,45,Quarterly,No
+163,1/8/2025,CUST875,Male,28,Florida,Beauty,5,622,3110,Apple Pay,Standard,Yes,Yes,No,2,Daily,Yes
+164,11/30/2023,CUST167,Male,31,Illinois,Electronics,1,194,194,Apple Pay,Express,Yes,No,No,30,Quarterly,No
+165,5/5/2023,CUST302,Female,63,California,Beauty,2,638,1276,Apple Pay,Standard,Yes,Yes,Yes,50,Daily,Yes
+166,10/27/2023,CUST552,Male,51,North Carolina,Electronics,3,554,1662,Apple Pay,Next Day Air,No,Yes,No,32,Daily,No
+167,9/27/2023,CUST538,Male,18,New York,Footwear,4,102,408,Credit Card,Standard,No,No,No,28,Monthly,Yes
+168,4/20/2023,CUST188,Male,26,Illinois,Home Decor,2,233,466,PayPal,Next Day Air,No,Yes,No,49,Monthly,No
+169,6/7/2024,CUST849,Male,28,Ohio,Home Decor,4,66,264,Cash,Express,Yes,No,No,25,Daily,Yes
+170,2/25/2025,CUST783,Female,35,North Carolina,Home Decor,2,765,1530,Venmo,Express,No,No,No,13,Bi-Weekly,No
+171,12/13/2023,CUST911,Male,40,New York,Sports,2,597,1194,Google Pay,Free Shipping,Yes,Yes,No,26,Daily,Yes
+172,1/9/2025,CUST772,Female,20,Florida,Sports,2,178,356,Apple Pay,Next Day Air,Yes,No,No,19,Monthly,No
+173,1/28/2025,CUST683,Male,43,Florida,Footwear,5,781,3905,Credit Card,Free Shipping,Yes,Yes,No,1,Quarterly,Yes
+174,12/14/2023,CUST456,Male,40,Georgia,Sports,2,401,802,Google Pay,Free Shipping,Yes,Yes,No,20,Quarterly,No
+175,4/13/2024,CUST339,Female,51,New York,Electronics,1,370,370,Google Pay,Standard,No,Yes,Yes,24,Daily,Yes
+176,7/17/2023,CUST258,Male,47,California,Clothing,1,800,800,Cash,Standard,No,No,No,30,Quarterly,No
+177,1/13/2024,CUST775,Male,59,North Carolina,Beauty,1,33,33,PayPal,Next Day Air,No,No,No,4,Quarterly,Yes
+178,9/22/2024,CUST464,Male,39,North Carolina,Sports,5,231,1155,Apple Pay,Free Shipping,Yes,No,No,31,Quarterly,No
+179,9/3/2023,CUST200,Male,65,New York,Clothing,1,65,65,Apple Pay,Express,Yes,No,No,13,Daily,Yes
+180,11/14/2023,CUST684,Female,49,California,Home Decor,1,718,718,Venmo,Express,No,Yes,No,16,Monthly,No
+181,11/9/2023,CUST917,Male,62,North Carolina,Home Decor,1,206,206,Debit Card,Next Day Air,No,No,No,24,Quarterly,
+182,3/9/2024,CUST748,Male,32,Georgia,Clothing,3,94,282,Apple Pay,Free Shipping,Yes,No,No,2,Quarterly,No
+183,6/23/2023,CUST663,Female,63,Michigan,Books,2,725,1450,Debit Card,Free Shipping,No,No,No,8,Weekly,Yes
+184,8/10/2024,CUST764,Female,49,Georgia,Books,4,87,348,PayPal,Standard,Yes,Yes,Yes,33,Bi-Weekly,No
+185,1/5/2025,CUST153,Male,19,Ohio,Beauty,1,701,701,Google Pay,Free Shipping,Yes,No,No,44,Weekly,Yes
+186,10/11/2023,CUST699,Female,58,Ohio,Beauty,3,897,2691,Google Pay,Standard,No,Yes,Yes,21,Daily,No
+187,3/3/2024,CUST605,Male,49,Florida,Sports,5,592,2960,Google Pay,Free Shipping,No,No,No,10,Quarterly,Yes
+188,1/25/2025,CUST242,Female,49,Georgia,Electronics,4,676,2704,Apple Pay,Free Shipping,Yes,No,No,37,Bi-Weekly,No
+189,10/23/2023,CUST673,Male,41,Ohio,Books,5,142,710,Debit Card,Next Day Air,Yes,No,No,40,Daily,Yes
+190,7/23/2024,CUST250,Female,53,Georgia,Electronics,2,867,1734,PayPal,Express,No,Yes,No,34,Monthly,No
+191,9/3/2024,CUST682,Male,54,California,Electronics,4,99,396,Apple Pay,Free Shipping,Yes,No,No,43,Monthly,Yes
+192,5/11/2023,CUST337,Female,18,Illinois,Clothing,1,455,455,Credit Card,Next Day Air,Yes,No,No,48,Bi-Weekly,No
+193,1/16/2025,CUST986,Male,64,Texas,Clothing,2,655,1310,Debit Card,Express,Yes,Yes,Yes,49,Quarterly,Yes
+194,7/1/2024,CUST728,Female,47,New York,Home Decor,4,520,2080,PayPal,Express,Yes,No,No,25,Weekly,No
+195,11/23/2023,CUST680,Male,54,California,Sports,3,208,624,PayPal,Next Day Air,Yes,Yes,Yes,30,Monthly,Yes
+196,10/15/2024,CUST119,Female,40,Georgia,Books,4,779,3116,Credit Card,Standard,Yes,No,No,19,Daily,No
+197,2/17/2024,CUST372,Female,42,Georgia,Footwear,1,359,359,Google Pay,Free Shipping,Yes,No,No,31,Quarterly,Yes
+198,9/22/2024,CUST832,Female,20,Texas,Sports,5,764,3820,PayPal,Standard,No,Yes,Yes,22,Bi-Weekly,No
+199,2/10/2024,CUST426,Female,65,Illinois,Clothing,2,121,242,Venmo,Next Day Air,Yes,Yes,Yes,42,Quarterly,Yes
+200,7/2/2024,CUST331,Male,48,Florida,Footwear,4,276,1104,Venmo,Express,No,Yes,No,41,Monthly,No
+201,10/12/2023,CUST495,Male,29,Florida,Sports,4,677,2708,Venmo,Standard,Yes,No,No,14,Quarterly,Yes
+202,12/15/2023,CUST289,Female,50,New York,Home Decor,2,121,242,Cash,Next Day Air,No,Yes,Yes,31,Quarterly,No
+203,11/5/2024,CUST317,Female,53,California,Books,4,488,1952,PayPal,Next Day Air,Yes,Yes,No,22,Daily,Yes
+204,3/20/2024,CUST273,Female,18,California,Home Decor,5,320,1600,Venmo,Free Shipping,Yes,No,No,35,Daily,No
+205,9/6/2023,CUST589,Male,43,California,Clothing,3,564,1692,Google Pay,Standard,No,Yes,Yes,30,Bi-Weekly,Yes
+206,10/3/2024,CUST402,Male,23,Michigan,Footwear,5,356,1780,Cash,Free Shipping,No,No,No,11,Weekly,No
+207,2/20/2025,CUST458,Female,65,Michigan,Books,1,980,980,Google Pay,Free Shipping,No,Yes,No,7,Monthly,Yes
+208,8/7/2024,CUST938,Male,53,North Carolina,Electronics,5,965,4825,Venmo,Next Day Air,No,Yes,No,15,Weekly,No
+209,8/21/2023,CUST136,Male,22,Texas,Sports,3,780,2340,Debit Card,Next Day Air,No,No,No,6,Daily,Yes
+210,2/8/2024,CUST874,Male,42,Texas,Home Decor,2,742,1484,Apple Pay,Standard,No,Yes,No,26,Quarterly,No
+211,8/14/2024,CUST248,Male,58,Michigan,Beauty,4,195,780,Venmo,Standard,No,No,No,19,Weekly,Yes
+212,1/27/2025,CUST434,Female,20,Michigan,Books,3,208,624,Apple Pay,Standard,No,Yes,Yes,20,Bi-Weekly,No
+213,11/22/2024,CUST813,Female,60,Georgia,Sports,2,95,190,Google Pay,Free Shipping,No,Yes,Yes,33,Weekly,Yes
+214,1/11/2025,CUST826,Male,35,California,Sports,5,104,520,Debit Card,Next Day Air,No,Yes,Yes,46,Bi-Weekly,No
+215,3/16/2025,CUST354,Female,52,Texas,Sports,1,173,173,Apple Pay,Free Shipping,No,No,No,19,Weekly,Yes
+216,3/18/2024,CUST618,Female,24,Georgia,Home Decor,3,351,1053,Credit Card,Free Shipping,Yes,No,No,32,Monthly,No
+217,5/8/2024,CUST885,Female,54,Florida,Electronics,3,986,2958,PayPal,Express,No,No,No,18,Bi-Weekly,Yes
+218,11/16/2023,CUST159,Female,65,Georgia,Electronics,4,606,2424,Venmo,Express,No,No,No,30,Weekly,No
+219,3/10/2024,CUST142,Male,62,Georgia,Books,2,862,1724,Credit Card,Express,No,Yes,Yes,39,Weekly,Yes
+220,8/9/2023,CUST562,Male,32,Florida,Books,3,339,1017,PayPal,Free Shipping,Yes,Yes,No,17,Weekly,No
+221,7/11/2023,CUST899,Male,29,New York,Home Decor,5,970,4850,Apple Pay,Free Shipping,Yes,No,No,18,Bi-Weekly,Yes
+222,12/26/2023,CUST498,Female,62,New York,Beauty,4,606,2424,Venmo,Next Day Air,No,Yes,No,48,Quarterly,No
+223,10/13/2023,CUST640,Male,43,North Carolina,Home Decor,5,640,3200,Debit Card,Next Day Air,No,Yes,Yes,43,Weekly,Yes
+224,10/19/2023,CUST832,Male,32,Florida,Clothing,2,197,394,Google Pay,Next Day Air,Yes,No,No,13,Daily,No
+225,7/30/2023,CUST590,Male,20,Ohio,Sports,4,760,3040,Debit Card,Express,No,No,No,39,Daily,Yes
+226,6/19/2023,CUST303,Male,46,North Carolina,Clothing,5,797,3985,Google Pay,Next Day Air,Yes,Yes,No,38,Daily,No
+227,2/12/2025,CUST497,Female,39,Florida,Electronics,2,619,1238,Credit Card,Express,No,No,No,19,Weekly,Yes
+228,1/21/2025,CUST772,Female,63,Michigan,Books,2,135,270,Cash,Standard,Yes,No,No,4,Bi-Weekly,No
+229,2/9/2025,CUST149,Female,40,Texas,Beauty,3,541,1623,Google Pay,Next Day Air,No,No,No,29,Daily,Yes
+230,11/14/2024,CUST966,Male,32,California,Beauty,5,993,4965,Google Pay,Standard,Yes,Yes,No,49,Daily,No
+231,12/22/2024,CUST724,Male,52,Florida,Home Decor,3,55,165,Google Pay,Free Shipping,Yes,No,No,39,Monthly,Yes
+232,5/22/2023,CUST357,Male,36,North Carolina,Clothing,4,222,888,Google Pay,Next Day Air,Yes,Yes,No,31,Weekly,No
+233,10/9/2024,CUST327,Male,26,Texas,Footwear,5,157,785,Credit Card,Next Day Air,No,Yes,No,21,Weekly,Yes
+234,6/3/2023,CUST182,Female,44,Illinois,Beauty,1,393,393,PayPal,Express,Yes,No,No,4,Weekly,No
+235,3/29/2024,CUST494,Male,22,Florida,Sports,1,319,319,PayPal,Standard,No,No,No,45,Weekly,Yes
+236,12/25/2023,CUST475,Male,47,Michigan,Sports,5,555,2775,Venmo,Express,Yes,Yes,No,5,Bi-Weekly,No
+237,5/19/2024,CUST204,Male,29,Ohio,Books,3,370,1110,Google Pay,Standard,Yes,No,No,28,Quarterly,Yes
+238,9/4/2024,CUST379,Female,59,Ohio,Beauty,1,672,672,Venmo,Free Shipping,No,No,No,15,Weekly,No
+239,3/4/2025,CUST150,Female,39,North Carolina,Books,1,253,253,Cash,Standard,Yes,Yes,Yes,27,Quarterly,Yes
+240,12/19/2023,CUST839,Male,44,California,Clothing,2,962,1924,Credit Card,Standard,No,No,No,3,Bi-Weekly,No
+241,6/26/2023,CUST414,Male,43,New York,Electronics,1,208,208,Cash,Next Day Air,Yes,Yes,Yes,39,Quarterly,Yes
+242,5/4/2023,CUST403,Male,55,Michigan,Sports,5,399,1995,Credit Card,Standard,No,No,No,30,Bi-Weekly,No
+243,11/3/2023,CUST633,Female,41,Georgia,Electronics,4,905,3620,Cash,Next Day Air,Yes,No,No,3,Bi-Weekly,Yes
+244,8/14/2023,CUST505,Male,51,Florida,Electronics,4,259,1036,Google Pay,Express,No,No,No,34,Daily,No
+245,12/9/2023,CUST124,Male,51,Michigan,Electronics,1,702,702,Credit Card,Free Shipping,Yes,No,No,24,Quarterly,Yes
+246,6/9/2023,CUST154,Female,37,Georgia,Beauty,1,876,876,Cash,Standard,Yes,No,No,34,Weekly,No
+247,7/10/2024,CUST964,Male,61,North Carolina,Home Decor,4,807,3228,Credit Card,Standard,No,No,No,33,Weekly,Yes
+248,3/20/2024,CUST977,Male,37,Ohio,Footwear,4,498,1992,Debit Card,Free Shipping,Yes,Yes,No,50,Monthly,No
+249,8/20/2024,CUST420,Male,40,Ohio,Footwear,4,219,876,Credit Card,Standard,Yes,No,No,5,Quarterly,Yes
+250,4/18/2024,CUST624,Female,64,Ohio,Electronics,3,734,2202,PayPal,Express,No,No,No,13,Weekly,No
+251,2/22/2024,CUST198,Female,44,Georgia,Beauty,2,95,190,Google Pay,Express,No,No,No,7,Bi-Weekly,Yes
+252,7/4/2024,CUST619,Female,60,Illinois,Electronics,1,23,23,Credit Card,Express,Yes,No,No,30,Daily,No
+253,3/10/2025,CUST389,Male,39,New York,Electronics,2,357,714,Google Pay,Next Day Air,No,Yes,Yes,22,Monthly,Yes
+254,8/15/2023,CUST876,Male,18,Georgia,Footwear,4,50,200,Debit Card,Express,Yes,Yes,Yes,41,Weekly,No
+255,11/6/2024,CUST422,Female,31,Florida,Beauty,2,883,1766,Debit Card,Next Day Air,No,Yes,Yes,39,Weekly,Yes
+256,4/10/2023,CUST811,Female,57,North Carolina,Home Decor,2,368,736,Debit Card,Next Day Air,Yes,No,No,6,Monthly,No
+257,2/18/2024,CUST511,Female,34,Georgia,Footwear,4,537,2148,PayPal,Standard,No,No,No,41,Bi-Weekly,Yes
+258,11/14/2024,CUST777,Female,35,California,Electronics,3,168,504,Credit Card,Express,Yes,No,No,30,Bi-Weekly,No
+259,1/29/2024,CUST757,Male,45,New York,Beauty,4,382,1528,Venmo,Next Day Air,No,Yes,No,5,Daily,Yes
+260,3/10/2024,CUST304,Male,28,New York,Clothing,3,408,1224,Debit Card,Free Shipping,Yes,Yes,Yes,0,Daily,No
+261,1/22/2024,CUST303,Female,42,Texas,Beauty,2,118,236,Debit Card,Standard,No,Yes,Yes,16,Quarterly,Yes
+262,5/25/2023,CUST751,Male,54,Georgia,Home Decor,1,248,248,Google Pay,Express,Yes,No,No,2,Monthly,No
+263,1/15/2024,CUST658,Female,43,New York,Footwear,5,447,2235,Apple Pay,Standard,No,No,No,48,Bi-Weekly,Yes
+264,10/21/2024,CUST906,Female,30,Michigan,Sports,5,76,380,Cash,Next Day Air,No,Yes,Yes,0,Weekly,No
+265,6/10/2023,CUST120,Female,25,New York,Sports,4,78,312,PayPal,Express,No,No,No,27,Quarterly,Yes
+266,1/14/2025,CUST161,Female,54,Georgia,Electronics,1,616,616,PayPal,Free Shipping,No,No,No,36,Weekly,No
+267,12/7/2024,CUST954,Female,25,Georgia,Clothing,3,242,726,Credit Card,Standard,No,No,No,50,Monthly,Yes
+268,12/8/2023,CUST440,Female,41,Ohio,Footwear,3,360,1080,PayPal,Standard,No,Yes,No,16,Bi-Weekly,No
+269,4/11/2024,CUST442,Male,58,North Carolina,Books,1,794,794,Cash,Standard,No,Yes,No,50,Bi-Weekly,Yes
+270,8/25/2024,CUST192,Male,61,Florida,Clothing,5,996,4980,Cash,Standard,No,Yes,Yes,6,Weekly,No
+271,11/3/2023,CUST253,Male,62,Florida,Electronics,5,467,2335,Cash,Free Shipping,No,Yes,Yes,21,Bi-Weekly,Yes
+272,2/27/2024,CUST453,Female,20,New York,Home Decor,4,664,2656,Credit Card,Next Day Air,No,Yes,No,25,Quarterly,No
+273,7/17/2024,CUST909,Female,39,Texas,Beauty,4,705,2820,Cash,Free Shipping,No,Yes,Yes,15,Monthly,Yes
+274,3/2/2025,CUST941,Male,30,Georgia,Beauty,2,878,1756,Apple Pay,Standard,No,No,No,20,Weekly,No
+275,10/10/2023,CUST424,Female,24,Texas,Footwear,4,482,1928,Cash,Next Day Air,No,No,No,18,Bi-Weekly,Yes
+276,3/20/2024,CUST916,Female,59,Florida,Clothing,4,945,3780,Google Pay,Free Shipping,No,Yes,No,6,Bi-Weekly,No
+277,2/5/2024,CUST376,Male,48,North Carolina,Sports,4,712,2848,PayPal,Standard,Yes,No,No,36,Quarterly,Yes
+278,10/5/2023,CUST160,Male,49,Ohio,Home Decor,1,489,489,Credit Card,Express,Yes,No,No,20,Monthly,No
+279,11/9/2023,CUST692,Male,48,Illinois,Electronics,5,944,4720,Google Pay,Free Shipping,Yes,No,No,27,Daily,Yes
+280,9/11/2024,CUST117,Female,34,New York,Beauty,1,118,118,Apple Pay,Next Day Air,Yes,No,No,36,Quarterly,No
+281,11/13/2023,CUST224,Male,37,Illinois,Footwear,5,634,3170,Debit Card,Express,No,No,No,42,Bi-Weekly,Yes
+282,2/17/2025,CUST871,Female,65,Georgia,Electronics,2,443,886,Cash,Free Shipping,No,Yes,Yes,18,Monthly,No
+283,9/21/2024,CUST927,Female,25,New York,Beauty,3,741,2223,Debit Card,Express,Yes,No,No,42,Daily,Yes
+284,2/27/2024,CUST868,Female,50,Michigan,Sports,3,602,1806,Debit Card,Standard,No,No,No,9,Bi-Weekly,No
+285,12/15/2023,CUST920,Male,56,Ohio,Footwear,1,797,797,Cash,Next Day Air,No,Yes,No,32,Bi-Weekly,Yes
+286,12/6/2023,CUST807,Female,37,Illinois,Electronics,5,161,805,Debit Card,Free Shipping,Yes,No,No,21,Weekly,No
+287,9/19/2024,CUST327,Female,38,North Carolina,Home Decor,2,690,1380,Debit Card,Next Day Air,Yes,Yes,Yes,1,Bi-Weekly,Yes
+288,3/3/2025,CUST986,Female,57,Ohio,Home Decor,5,703,3515,PayPal,Next Day Air,Yes,No,No,38,Monthly,No
+289,9/9/2024,CUST163,Male,62,Ohio,Books,1,200,200,Apple Pay,Standard,Yes,No,No,23,Monthly,Yes
+290,5/13/2023,CUST996,Female,57,Texas,Electronics,1,554,554,Venmo,Standard,Yes,No,No,22,Quarterly,No
+291,9/19/2024,CUST955,Female,45,Texas,Footwear,5,897,4485,Cash,Free Shipping,No,Yes,Yes,30,Quarterly,Yes
+292,9/22/2023,CUST271,Male,53,Florida,Footwear,2,861,1722,Google Pay,Standard,No,No,No,2,Weekly,No
+293,7/26/2023,CUST170,Female,29,Illinois,Home Decor,1,545,545,Apple Pay,Free Shipping,Yes,No,No,35,Bi-Weekly,Yes
+294,9/4/2023,CUST364,Male,21,Illinois,Clothing,2,985,1970,Debit Card,Next Day Air,No,Yes,Yes,2,Monthly,No
+295,4/9/2023,CUST832,Female,28,California,Footwear,1,750,750,Venmo,Free Shipping,No,Yes,Yes,5,Bi-Weekly,Yes
+296,2/28/2024,CUST880,Female,46,Michigan,Sports,2,184,368,PayPal,Standard,No,Yes,No,11,Bi-Weekly,No
+297,11/21/2023,CUST389,Male,18,Michigan,Clothing,3,895,2685,Cash,Next Day Air,No,No,No,45,Quarterly,Yes
+298,9/19/2023,CUST769,Male,34,Ohio,Home Decor,2,882,1764,Venmo,Express,No,No,No,2,Weekly,No
+299,10/10/2024,CUST111,Male,22,Georgia,Clothing,2,451,902,Credit Card,Standard,No,No,No,13,Bi-Weekly,Yes
+300,6/28/2024,CUST183,Male,55,North Carolina,Electronics,3,747,2241,Google Pay,Express,Yes,No,No,21,Weekly,No
+301,10/27/2024,CUST912,Male,24,North Carolina,Clothing,4,167,668,PayPal,Standard,Yes,Yes,No,45,Weekly,Yes
+302,6/8/2024,CUST241,Male,38,Georgia,Sports,1,393,393,Cash,Standard,No,No,No,9,Quarterly,No
+303,10/22/2023,CUST102,Female,28,North Carolina,Clothing,1,151,151,Apple Pay,Standard,Yes,Yes,No,20,Daily,Yes
+304,8/3/2023,CUST749,Male,37,California,Books,1,978,978,Credit Card,Free Shipping,No,No,No,43,Bi-Weekly,No
+305,3/14/2024,CUST551,Female,54,Georgia,Footwear,3,40,120,PayPal,Next Day Air,No,Yes,Yes,25,Weekly,Yes
+306,11/10/2023,CUST782,Male,24,Texas,Clothing,5,988,4940,Cash,Free Shipping,No,Yes,No,9,Bi-Weekly,No
+307,5/26/2023,CUST398,Female,64,Texas,Footwear,5,330,1650,Credit Card,Standard,No,No,No,12,Monthly,Yes
+308,9/4/2023,CUST627,Male,25,New York,Clothing,3,968,2904,Cash,Next Day Air,No,Yes,Yes,34,Weekly,No
+309,3/13/2025,CUST562,Female,30,Ohio,Beauty,1,161,161,PayPal,Next Day Air,Yes,No,No,11,Monthly,Yes
+310,4/27/2024,CUST109,Male,34,Georgia,Clothing,3,74,222,Apple Pay,Free Shipping,Yes,No,No,15,Quarterly,No
+311,12/7/2024,CUST196,Male,44,Ohio,Beauty,1,40,40,Google Pay,Next Day Air,Yes,Yes,No,18,Bi-Weekly,Yes
+312,2/13/2024,CUST142,Male,55,New York,Books,2,499,998,PayPal,Standard,No,No,No,11,Bi-Weekly,No
+313,3/8/2024,CUST465,Female,59,Florida,Footwear,1,892,892,Debit Card,Free Shipping,Yes,Yes,Yes,21,Daily,Yes
+314,5/28/2023,CUST237,Female,49,Georgia,Clothing,3,541,1623,Cash,Next Day Air,No,No,No,16,Weekly,No
+315,11/6/2024,CUST610,Male,30,Florida,Home Decor,4,696,2784,Google Pay,Standard,Yes,Yes,No,48,Monthly,Yes
+316,12/11/2023,CUST672,Female,36,Texas,Clothing,1,48,48,Apple Pay,Express,Yes,Yes,No,40,Monthly,No
+317,5/14/2023,CUST181,Male,65,Florida,Sports,4,214,856,Apple Pay,Express,No,No,No,31,Weekly,Yes
+318,3/20/2025,CUST921,Male,50,Texas,Home Decor,3,636,1908,Debit Card,Standard,No,No,No,1,Daily,No
+319,10/24/2024,CUST562,Female,35,Texas,Sports,5,387,1935,Debit Card,Next Day Air,Yes,No,No,39,Bi-Weekly,Yes
+320,9/4/2023,CUST329,Female,18,Ohio,Clothing,4,616,2464,Debit Card,Free Shipping,No,Yes,Yes,37,Daily,No
+321,5/3/2023,CUST332,Male,37,California,Sports,5,671,3355,Google Pay,Next Day Air,Yes,Yes,Yes,9,Quarterly,Yes
+322,3/7/2025,CUST778,Female,51,New York,Footwear,2,716,1432,Cash,Free Shipping,No,No,No,39,Daily,No
+323,11/27/2023,CUST130,Female,48,Ohio,Clothing,2,250,500,PayPal,Free Shipping,Yes,No,No,10,Bi-Weekly,Yes
+324,6/2/2023,CUST449,Male,55,Georgia,Beauty,3,265,795,PayPal,Free Shipping,No,Yes,Yes,33,Quarterly,No
+325,4/16/2023,CUST374,Female,42,New York,Clothing,5,807,4035,PayPal,Express,Yes,No,No,7,Monthly,Yes
+326,4/8/2024,CUST501,Male,45,Ohio,Clothing,3,648,1944,Venmo,Free Shipping,No,No,No,47,Quarterly,No
+327,9/18/2023,CUST396,Female,51,New York,Sports,5,466,2330,Venmo,Next Day Air,Yes,Yes,No,31,Daily,Yes
+328,1/27/2024,CUST537,Female,49,Florida,Clothing,2,816,1632,Venmo,Free Shipping,No,Yes,Yes,38,Quarterly,No
+329,10/17/2024,CUST107,Male,38,Georgia,Clothing,3,211,633,Debit Card,Next Day Air,Yes,Yes,No,38,Bi-Weekly,Yes
+330,7/14/2023,CUST276,Male,47,Michigan,Sports,2,848,1696,Apple Pay,Free Shipping,Yes,Yes,No,2,Bi-Weekly,No
+331,8/11/2023,CUST265,Female,37,California,Clothing,5,720,3600,Credit Card,Free Shipping,Yes,Yes,Yes,11,Bi-Weekly,Yes
+332,9/16/2024,CUST437,Female,47,Michigan,Beauty,4,44,176,Venmo,Express,Yes,Yes,No,41,Daily,No
+333,8/20/2023,CUST155,Female,22,California,Sports,3,723,2169,Apple Pay,Standard,No,No,No,31,Weekly,Yes
+334,5/18/2024,CUST297,Female,34,New York,Electronics,2,67,134,Apple Pay,Standard,No,No,No,45,Bi-Weekly,No
+335,11/4/2024,CUST706,Female,51,Michigan,Books,4,954,3816,Apple Pay,Free Shipping,Yes,No,No,22,Weekly,Yes
+336,5/21/2023,CUST107,Female,52,Michigan,Electronics,2,241,482,Venmo,Free Shipping,No,Yes,No,50,Monthly,No
+337,10/8/2024,CUST263,Female,59,Michigan,Books,4,45,180,PayPal,Next Day Air,Yes,No,No,12,Quarterly,Yes
+338,8/9/2023,CUST700,Male,40,Illinois,Electronics,3,663,1989,Credit Card,Free Shipping,No,Yes,Yes,22,Monthly,No
+339,11/18/2024,CUST135,Male,57,North Carolina,Books,4,422,1688,Credit Card,Free Shipping,No,No,No,12,Monthly,Yes
+340,6/17/2023,CUST629,Female,59,New York,Clothing,2,362,724,Google Pay,Standard,No,No,No,37,Monthly,No
+341,11/19/2023,CUST560,Female,62,Georgia,Clothing,1,717,717,Debit Card,Standard,Yes,No,No,43,Weekly,Yes
+342,3/10/2025,CUST342,Male,25,Florida,Books,5,508,2540,Google Pay,Standard,Yes,No,No,47,Quarterly,No
+343,12/23/2023,CUST922,Female,28,Illinois,Sports,5,805,4025,Cash,Express,Yes,Yes,No,30,Bi-Weekly,Yes
+344,8/19/2024,CUST554,Male,42,Florida,Beauty,5,164,820,Google Pay,Next Day Air,Yes,Yes,No,32,Monthly,No
+345,6/27/2024,CUST529,Female,37,Michigan,Electronics,3,540,1620,Apple Pay,Standard,Yes,No,No,37,Daily,Yes
+346,2/4/2025,CUST117,Male,24,North Carolina,Electronics,5,137,685,Apple Pay,Free Shipping,Yes,Yes,No,45,Quarterly,No
+347,3/20/2024,CUST429,Female,59,New York,Home Decor,2,886,1772,Apple Pay,Next Day Air,No,Yes,No,16,Quarterly,Yes
+348,10/31/2023,CUST496,Female,59,Michigan,Footwear,1,761,761,Venmo,Next Day Air,No,Yes,Yes,42,Monthly,No
+349,10/10/2024,CUST332,Female,46,New York,Books,4,765,3060,Venmo,Express,No,No,No,28,Daily,Yes
+350,9/2/2024,CUST631,Male,49,North Carolina,Home Decor,2,596,1192,Cash,Express,Yes,No,No,8,Bi-Weekly,No
+351,11/27/2024,CUST873,Male,62,Texas,Books,4,338,1352,Google Pay,Free Shipping,No,Yes,No,45,Monthly,Yes
+352,6/27/2023,CUST555,Female,28,Illinois,Footwear,2,288,576,PayPal,Free Shipping,Yes,No,No,35,Monthly,No
+353,1/31/2025,CUST708,Male,51,Florida,Sports,3,802,2406,PayPal,Next Day Air,Yes,Yes,Yes,17,Quarterly,Yes
+354,6/8/2023,CUST617,Female,26,Ohio,Electronics,5,481,2405,Credit Card,Free Shipping,Yes,No,No,49,Daily,No
+355,10/30/2023,CUST983,Female,44,Ohio,Sports,2,864,1728,Apple Pay,Free Shipping,Yes,No,No,35,Weekly,Yes
+356,11/17/2024,CUST235,Female,47,Florida,Books,4,217,868,Venmo,Next Day Air,No,No,No,32,Daily,No
+357,10/23/2023,CUST541,Male,32,Michigan,Beauty,4,90,360,Cash,Express,No,No,No,43,Monthly,Yes
+358,10/14/2023,CUST928,Male,53,Florida,Electronics,2,388,776,Credit Card,Express,No,Yes,No,22,Bi-Weekly,No
+359,4/21/2024,CUST409,Female,28,Florida,Electronics,1,832,832,Google Pay,Standard,Yes,No,No,25,Quarterly,Yes
+360,1/22/2025,CUST532,Male,24,North Carolina,Electronics,3,461,1383,Debit Card,Free Shipping,No,No,No,3,Quarterly,No
+361,8/22/2024,CUST781,Female,18,New York,Sports,5,685,3425,Apple Pay,Free Shipping,Yes,Yes,No,47,Bi-Weekly,Yes
+362,10/6/2023,CUST671,Female,41,Illinois,Electronics,4,256,1024,Credit Card,Free Shipping,Yes,No,No,34,Daily,No
+363,4/7/2023,CUST946,Male,19,Florida,Electronics,5,841,4205,Venmo,Standard,No,No,No,22,Daily,Yes
+364,6/25/2024,CUST993,Female,36,Michigan,Beauty,1,898,898,Venmo,Standard,Yes,Yes,Yes,36,Monthly,No
+365,7/13/2023,CUST276,Male,51,North Carolina,Books,4,180,720,PayPal,Next Day Air,Yes,No,No,15,Daily,Yes
+366,5/13/2024,CUST314,Female,51,North Carolina,Electronics,2,155,310,Credit Card,Free Shipping,No,Yes,Yes,30,Quarterly,No
+367,2/15/2024,CUST360,Female,38,New York,Footwear,2,395,790,Debit Card,Next Day Air,Yes,Yes,Yes,21,Bi-Weekly,Yes
+368,2/23/2025,CUST405,Female,58,North Carolina,Clothing,1,667,667,Cash,Free Shipping,No,No,No,13,Weekly,No
+369,6/23/2024,CUST220,Female,55,California,Electronics,2,896,1792,Credit Card,Next Day Air,No,Yes,Yes,21,Daily,Yes
+370,5/9/2024,CUST796,Female,30,Texas,Electronics,2,99,198,PayPal,Express,No,Yes,Yes,40,Bi-Weekly,No
+371,3/20/2024,CUST152,Male,57,Florida,Electronics,4,311,1244,Credit Card,Free Shipping,No,No,No,30,Bi-Weekly,Yes
+372,2/22/2025,CUST576,Male,28,Ohio,Beauty,1,176,176,Debit Card,Standard,Yes,Yes,No,48,Monthly,No
+373,9/18/2023,CUST263,Female,47,Michigan,Electronics,4,10,40,Credit Card,Free Shipping,No,Yes,Yes,35,Monthly,Yes
+374,11/22/2023,CUST406,Female,20,Michigan,Electronics,4,993,3972,Cash,Next Day Air,Yes,Yes,No,31,Daily,No
+375,6/23/2024,CUST721,Female,31,Michigan,Books,3,660,1980,Debit Card,Express,No,Yes,Yes,29,Weekly,Yes
+376,11/20/2023,CUST833,Male,21,California,Sports,1,188,188,Cash,Free Shipping,No,Yes,No,25,Daily,No
+377,12/18/2023,CUST384,Male,49,Florida,Home Decor,1,19,19,Venmo,Standard,No,No,No,34,Quarterly,Yes
+378,12/29/2023,CUST953,Male,28,Michigan,Clothing,4,349,1396,Apple Pay,Standard,Yes,Yes,No,39,Daily,No
+379,5/14/2024,CUST374,Female,28,California,Electronics,1,893,893,Google Pay,Standard,Yes,No,No,45,Quarterly,Yes
+380,9/21/2024,CUST892,Male,21,North Carolina,Home Decor,4,465,1860,Apple Pay,Standard,Yes,No,No,4,Bi-Weekly,No
+381,4/27/2023,CUST320,Female,62,New York,Clothing,3,205,615,Credit Card,Standard,No,Yes,No,9,Bi-Weekly,Yes
+382,8/20/2023,CUST273,Male,26,Florida,Electronics,1,61,61,Venmo,Next Day Air,Yes,No,No,36,Monthly,No
+383,12/11/2023,CUST389,Male,34,New York,Home Decor,5,995,4975,Google Pay,Express,Yes,No,No,18,Daily,Yes
+384,1/8/2025,CUST554,Female,56,California,Books,2,525,1050,Credit Card,Free Shipping,No,No,No,31,Quarterly,No
+385,10/22/2023,CUST107,Male,34,New York,Home Decor,1,617,617,Debit Card,Standard,No,No,No,14,Bi-Weekly,Yes
+386,5/4/2023,CUST988,Female,49,Michigan,Beauty,2,963,1926,PayPal,Standard,Yes,Yes,Yes,48,Weekly,No
+387,8/17/2023,CUST790,Male,53,Illinois,Beauty,5,136,680,Apple Pay,Next Day Air,Yes,Yes,Yes,36,Bi-Weekly,Yes
+388,9/26/2023,CUST825,Female,39,North Carolina,Sports,4,323,1292,Google Pay,Express,Yes,No,No,36,Quarterly,No
+389,7/2/2024,CUST567,Female,21,Michigan,Sports,5,749,3745,Debit Card,Free Shipping,No,Yes,No,27,Daily,Yes
+390,10/31/2024,CUST392,Male,26,Michigan,Clothing,4,747,2988,Credit Card,Next Day Air,No,Yes,No,21,Weekly,No
+391,1/28/2024,CUST246,Male,64,Illinois,Sports,2,392,784,Debit Card,Free Shipping,No,Yes,No,3,Daily,Yes
+392,10/21/2023,CUST701,Female,48,New York,Sports,3,75,225,Apple Pay,Free Shipping,Yes,Yes,No,4,Daily,No
+393,12/5/2023,CUST427,Female,40,Florida,Beauty,2,860,1720,Venmo,Express,No,Yes,Yes,17,Daily,Yes
+394,10/4/2023,CUST541,Male,61,Michigan,Electronics,5,833,4165,Cash,Express,Yes,No,No,21,Monthly,No
+395,9/7/2023,CUST828,Female,18,New York,Home Decor,3,726,2178,PayPal,Next Day Air,Yes,No,No,20,Daily,Yes
+396,8/25/2024,CUST724,Female,54,Georgia,Home Decor,1,513,513,Google Pay,Next Day Air,Yes,Yes,Yes,38,Monthly,No
+397,8/29/2023,CUST258,Female,25,Texas,Clothing,5,376,1880,Debit Card,Standard,No,No,No,0,Bi-Weekly,Yes
+398,11/19/2023,CUST707,Male,23,New York,Beauty,2,478,956,Apple Pay,Free Shipping,Yes,No,No,20,Weekly,No
+399,5/24/2023,CUST900,Female,49,California,Beauty,3,871,2613,Credit Card,Express,Yes,Yes,Yes,40,Quarterly,Yes
+400,11/20/2024,CUST284,Male,64,Georgia,Beauty,2,461,922,Credit Card,Next Day Air,Yes,Yes,No,26,Quarterly,No
+401,1/7/2024,CUST307,Female,33,North Carolina,Footwear,5,784,3920,Credit Card,Next Day Air,Yes,Yes,No,49,Daily,Yes
+402,3/29/2024,CUST456,Male,42,Michigan,Footwear,1,191,191,Apple Pay,Next Day Air,Yes,Yes,No,1,Monthly,No
+403,1/10/2024,CUST676,Male,20,Illinois,Home Decor,1,458,458,Apple Pay,Express,No,Yes,No,14,Monthly,Yes
+404,2/10/2025,CUST674,Female,51,North Carolina,Home Decor,1,708,708,Cash,Standard,No,No,No,12,Quarterly,No
+405,8/13/2023,CUST173,Female,23,Michigan,Footwear,4,169,676,PayPal,Next Day Air,Yes,Yes,Yes,40,Daily,Yes
+406,5/30/2023,CUST655,Female,54,Texas,Home Decor,3,541,1623,Apple Pay,Standard,Yes,Yes,Yes,43,Quarterly,No
+407,10/9/2023,CUST149,Female,56,Florida,Electronics,4,188,752,Credit Card,Next Day Air,No,No,No,18,Monthly,Yes
+408,4/9/2024,CUST224,Female,49,Texas,Home Decor,2,191,382,Venmo,Standard,No,No,No,24,Daily,No
+409,6/21/2023,CUST263,Female,61,Texas,Beauty,1,15,15,Venmo,Free Shipping,No,Yes,No,27,Quarterly,Yes
+410,2/11/2025,CUST339,Female,49,Florida,Sports,2,855,1710,Google Pay,Express,No,No,No,50,Weekly,No
+411,12/23/2024,CUST439,Female,43,Florida,Sports,5,779,3895,Google Pay,Next Day Air,Yes,No,No,40,Daily,Yes
+412,8/15/2024,CUST622,Male,28,North Carolina,Beauty,4,286,1144,Apple Pay,Standard,No,No,No,20,Monthly,No
+413,12/29/2024,CUST168,Male,59,Texas,Home Decor,1,385,385,Apple Pay,Free Shipping,No,Yes,Yes,42,Monthly,Yes
+414,6/21/2023,CUST898,Female,24,California,Home Decor,1,842,842,Venmo,Standard,Yes,Yes,Yes,17,Monthly,No
+415,9/12/2024,CUST161,Male,38,Illinois,Beauty,1,258,258,Cash,Standard,Yes,No,No,37,Quarterly,Yes
+416,2/4/2024,CUST452,Female,20,Ohio,Electronics,2,362,724,Venmo,Free Shipping,Yes,No,No,39,Weekly,No
+417,1/21/2025,CUST179,Female,55,Florida,Beauty,5,583,2915,Debit Card,Standard,No,No,No,42,Quarterly,Yes
+418,3/8/2024,CUST793,Female,44,Georgia,Electronics,2,312,624,Cash,Standard,Yes,Yes,No,49,Bi-Weekly,No
+419,10/1/2023,CUST559,Female,33,Ohio,Sports,4,357,1428,Cash,Express,No,No,No,50,Quarterly,Yes
+420,11/26/2024,CUST511,Female,40,Illinois,Sports,2,717,1434,Credit Card,Express,Yes,No,No,40,Daily,No
+421,10/21/2023,CUST755,Male,53,California,Sports,4,959,3836,Apple Pay,Free Shipping,No,No,No,8,Weekly,Yes
+422,3/19/2025,CUST684,Male,39,California,Footwear,3,877,2631,Debit Card,Free Shipping,No,No,No,43,Weekly,No
+423,5/23/2023,CUST133,Male,45,New York,Footwear,4,546,2184,Debit Card,Next Day Air,Yes,No,No,47,Daily,Yes
+424,10/24/2024,CUST777,Male,20,North Carolina,Electronics,5,224,1120,Apple Pay,Next Day Air,Yes,No,No,12,Bi-Weekly,No
+425,3/21/2024,CUST865,Female,35,Florida,Home Decor,5,821,4105,Apple Pay,Standard,Yes,No,No,14,Weekly,Yes
+426,6/27/2023,CUST637,Male,65,Michigan,Electronics,3,174,522,PayPal,Standard,Yes,No,No,15,Bi-Weekly,No
+427,10/18/2023,CUST595,Male,46,North Carolina,Home Decor,4,717,2868,Cash,Standard,No,Yes,Yes,1,Bi-Weekly,Yes
+428,2/28/2024,CUST178,Male,47,Texas,Footwear,2,351,702,Debit Card,Next Day Air,No,No,No,9,Monthly,No
+429,11/13/2024,CUST772,Male,57,Georgia,Electronics,5,105,525,Debit Card,Standard,No,Yes,Yes,48,Daily,Yes
+430,6/11/2023,CUST545,Male,52,California,Sports,3,617,1851,Cash,Express,Yes,No,No,34,Bi-Weekly,No
+431,10/1/2023,CUST469,Male,36,Georgia,Sports,1,871,871,Google Pay,Free Shipping,Yes,Yes,No,19,Bi-Weekly,Yes
+432,6/9/2024,CUST525,Male,44,Texas,Home Decor,3,965,2895,Credit Card,Next Day Air,No,No,No,33,Monthly,No
+433,3/6/2025,CUST894,Male,23,Florida,Sports,5,84,420,Venmo,Free Shipping,Yes,No,No,7,Bi-Weekly,Yes
+434,5/5/2024,CUST752,Female,30,New York,Sports,5,719,3595,Credit Card,Standard,No,Yes,Yes,2,Bi-Weekly,No
+435,8/31/2023,CUST903,Male,37,New York,Beauty,1,191,191,Apple Pay,Standard,No,Yes,No,10,Monthly,Yes
+436,1/26/2024,CUST712,Female,54,Ohio,Books,3,655,1965,Credit Card,Free Shipping,Yes,Yes,Yes,6,Daily,No
+437,12/20/2023,CUST524,Female,35,North Carolina,Home Decor,4,489,1956,Credit Card,Next Day Air,Yes,No,No,1,Bi-Weekly,Yes
+438,5/8/2024,CUST262,Male,54,California,Beauty,2,638,1276,Venmo,Next Day Air,Yes,No,No,33,Monthly,No
+439,4/26/2024,CUST175,Female,40,California,Electronics,3,701,2103,PayPal,Express,No,Yes,Yes,25,Bi-Weekly,Yes
+440,9/20/2024,CUST685,Female,24,New York,Books,2,847,1694,Venmo,Next Day Air,Yes,No,No,15,Monthly,No
+441,1/2/2024,CUST455,Female,37,Michigan,Clothing,4,457,1828,Google Pay,Express,Yes,Yes,No,32,Monthly,Yes
+442,4/15/2024,CUST604,Male,25,Texas,Clothing,3,261,783,Credit Card,Free Shipping,Yes,No,No,43,Bi-Weekly,No
+443,12/5/2024,CUST335,Female,19,Texas,Footwear,1,73,73,Apple Pay,Next Day Air,No,No,No,32,Quarterly,Yes
+444,5/20/2023,CUST950,Male,45,Michigan,Home Decor,2,617,1234,Credit Card,Next Day Air,Yes,Yes,No,21,Quarterly,No
+445,9/29/2023,CUST353,Male,45,North Carolina,Electronics,5,863,4315,Debit Card,Standard,Yes,Yes,Yes,30,Weekly,Yes
+446,5/17/2023,CUST368,Female,50,New York,Home Decor,4,468,1872,Apple Pay,Next Day Air,Yes,Yes,No,28,Quarterly,No
+447,6/1/2024,CUST301,Female,61,North Carolina,Footwear,3,224,672,PayPal,Express,No,No,No,34,Quarterly,Yes
+448,12/20/2023,CUST196,Female,56,Florida,Electronics,3,786,2358,Google Pay,Express,No,Yes,Yes,49,Monthly,No
+449,10/1/2023,CUST881,Male,62,Florida,Footwear,1,844,844,Debit Card,Express,Yes,Yes,No,10,Quarterly,Yes
+450,3/6/2024,CUST167,Male,35,New York,Footwear,3,734,2202,Credit Card,Next Day Air,No,No,No,40,Daily,No
+451,1/25/2025,CUST180,Female,40,North Carolina,Sports,1,524,524,Cash,Free Shipping,No,Yes,Yes,28,Bi-Weekly,Yes
+452,6/22/2023,CUST153,Male,20,Ohio,Sports,2,407,814,Venmo,Next Day Air,Yes,No,No,25,Daily,No
+453,10/2/2023,CUST153,Male,50,Ohio,Sports,2,408,816,Credit Card,Free Shipping,No,No,No,25,Daily,Yes
+454,2/4/2025,CUST677,Male,60,Georgia,Books,2,346,692,PayPal,Standard,Yes,No,No,29,Bi-Weekly,No
+455,1/4/2025,CUST312,Male,26,Michigan,Beauty,5,540,2700,PayPal,Standard,Yes,No,No,5,Monthly,Yes
+456,7/27/2023,CUST399,Male,58,Florida,Sports,2,551,1102,Google Pay,Standard,Yes,Yes,Yes,47,Daily,No
+457,3/12/2024,CUST910,Female,25,North Carolina,Home Decor,2,805,1610,Cash,Standard,Yes,Yes,No,20,Quarterly,Yes
+458,6/14/2023,CUST499,Male,62,Ohio,Books,4,153,612,Google Pay,Next Day Air,No,Yes,No,16,Daily,No
+459,7/5/2023,CUST458,Male,36,Florida,Sports,2,709,1418,Debit Card,Free Shipping,No,No,No,12,Weekly,Yes
+460,11/23/2023,CUST421,Male,41,Florida,Footwear,1,381,381,Credit Card,Free Shipping,No,No,No,26,Bi-Weekly,No
+461,6/14/2023,CUST397,Male,33,Florida,Sports,1,652,652,Google Pay,Standard,Yes,Yes,Yes,3,Weekly,Yes
+462,10/30/2024,CUST418,Male,45,California,Home Decor,1,131,131,PayPal,Free Shipping,Yes,Yes,No,32,Monthly,No
+463,9/19/2023,CUST541,Male,26,California,Home Decor,2,839,1678,Debit Card,Express,No,No,No,31,Bi-Weekly,Yes
+464,4/23/2023,CUST789,Female,57,California,Beauty,1,186,186,Credit Card,Free Shipping,Yes,No,No,43,Monthly,No
+465,3/21/2024,CUST393,Male,24,California,Footwear,2,873,1746,Credit Card,Standard,Yes,No,No,14,Quarterly,Yes
+466,3/3/2025,CUST971,Female,43,Georgia,Clothing,3,832,2496,Venmo,Next Day Air,No,No,No,42,Monthly,No
+467,11/16/2023,CUST618,Male,57,Florida,Electronics,1,814,814,Apple Pay,Free Shipping,No,No,No,42,Quarterly,Yes
+468,6/29/2024,CUST437,Female,25,New York,Electronics,5,987,4935,Credit Card,Free Shipping,Yes,No,No,47,Weekly,No
+469,3/28/2023,CUST432,Male,32,Illinois,Footwear,1,984,984,Venmo,Next Day Air,No,No,No,47,Monthly,Yes
+470,6/23/2024,CUST857,Male,21,Ohio,Books,1,613,613,Credit Card,Express,Yes,No,No,31,Monthly,No
+471,10/28/2023,CUST265,Male,29,California,Footwear,3,775,2325,Google Pay,Free Shipping,Yes,No,No,7,Bi-Weekly,Yes
+472,8/20/2023,CUST688,Male,18,Texas,Sports,1,898,898,Cash,Free Shipping,Yes,Yes,Yes,4,Bi-Weekly,No
+473,6/14/2023,CUST930,Male,33,New York,Beauty,1,654,654,Apple Pay,Next Day Air,No,No,No,21,Weekly,Yes
+474,4/4/2023,CUST412,Male,47,North Carolina,Home Decor,5,590,2950,Venmo,Free Shipping,Yes,Yes,No,29,Quarterly,No
+475,7/30/2024,CUST592,Male,50,Texas,Sports,4,364,1456,Cash,Free Shipping,No,No,No,17,Quarterly,Yes
+476,10/18/2024,CUST438,Male,31,Illinois,Home Decor,2,696,1392,Credit Card,Next Day Air,Yes,No,No,6,Quarterly,No
+477,9/7/2024,CUST448,Female,22,Ohio,Beauty,1,949,949,Google Pay,Standard,Yes,Yes,No,44,Daily,Yes
+478,9/20/2024,CUST802,Female,35,Florida,Electronics,2,151,302,Credit Card,Standard,No,Yes,Yes,48,Weekly,No
+479,9/7/2024,CUST804,Male,63,Illinois,Electronics,5,907,4535,PayPal,Next Day Air,Yes,No,No,10,Daily,Yes
+480,8/18/2023,CUST416,Female,25,New York,Home Decor,4,351,1404,PayPal,Free Shipping,No,No,No,0,Daily,No
+481,3/24/2023,CUST488,Female,45,New York,Clothing,3,596,1788,Venmo,Free Shipping,No,No,No,8,Bi-Weekly,Yes
+482,2/6/2025,CUST334,Female,64,California,Books,2,395,790,PayPal,Standard,Yes,No,No,34,Daily,No
+483,5/5/2023,CUST757,Female,65,Michigan,Home Decor,3,556,1668,PayPal,Express,Yes,No,No,47,Daily,Yes
+483,5/5/2023,CUST757,Female,65,Michigan,Home Decor,3,556,1668,PayPal,Express,Yes,No,No,47,Daily,Yes
+484,5/15/2024,CUST519,Male,31,Ohio,Footwear,5,176,880,Apple Pay,Standard,No,No,No,7,Monthly,Yes
+485,11/1/2023,CUST552,Male,21,Texas,Home Decor,5,889,4445,Cash,Standard,No,No,No,44,Bi-Weekly,No
+486,8/24/2024,CUST946,Male,30,Illinois,Clothing,3,383,1149,PayPal,Free Shipping,No,No,No,13,Daily,Yes
+487,2/17/2025,CUST499,Female,51,Georgia,Beauty,3,252,756,Google Pay,Express,Yes,No,No,40,Daily,No
+488,8/19/2023,CUST688,Male,57,North Carolina,Electronics,3,814,2442,Credit Card,Free Shipping,No,Yes,Yes,7,Quarterly,Yes
+489,12/5/2023,CUST568,Male,54,Illinois,Sports,3,963,2889,Credit Card,Standard,Yes,Yes,No,50,Bi-Weekly,No
+490,7/3/2023,CUST106,Female,21,California,Sports,4,238,952,Cash,Free Shipping,No,No,No,20,Weekly,Yes
+491,2/1/2024,CUST963,Female,47,North Carolina,Beauty,2,412,824,PayPal,Next Day Air,No,Yes,No,3,Bi-Weekly,No
+492,8/17/2023,CUST421,Male,23,California,Beauty,1,156,156,Cash,Standard,Yes,No,No,26,Daily,Yes
+493,2/12/2025,CUST581,Female,32,Florida,Footwear,3,75,225,Cash,Next Day Air,No,No,No,0,Bi-Weekly,No
+494,11/6/2023,CUST666,Female,46,Michigan,Books,3,438,1314,Google Pay,Next Day Air,No,Yes,Yes,17,Daily,Yes
+495,8/22/2024,CUST874,Male,54,North Carolina,Electronics,4,178,712,Google Pay,Next Day Air,Yes,Yes,Yes,27,Weekly,No
+496,3/9/2025,CUST468,Male,27,California,Home Decor,3,660,1980,PayPal,Free Shipping,No,Yes,No,33,Weekly,Yes
+497,12/28/2024,CUST377,Male,60,California,Footwear,5,18,90,Cash,Next Day Air,No,No,No,25,Weekly,No
+498,10/26/2023,CUST289,Female,34,Michigan,Footwear,2,350,700,Credit Card,Free Shipping,Yes,No,No,9,Daily,Yes
+499,5/24/2024,CUST306,Female,65,Ohio,Electronics,2,950,1900,Debit Card,Standard,No,Yes,No,23,Weekly,No
+500,12/6/2024,CUST445,Female,25,New York,Clothing,2,554,1108,Credit Card,Express,Yes,No,No,11,Monthly,Yes
+501,2/17/2025,CUST499,Female,51,Georgia,Beauty,3,252,756,Google Pay,Express,Yes,No,No,40,Daily,No
